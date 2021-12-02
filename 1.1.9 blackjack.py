@@ -1,10 +1,6 @@
 #blackjack
 #this will be the death of me
-
-#sorry if it's messy, it's tech week for the musical and if 
-#this is anything like real blackjack, the messiness may be more realistic
-
-#some of the code works on the screen, some works in the terminal, so keep an eye on both if possible
+#all code works in the window
 
 #importing turtles (turtle and random)
 import turtle as trtl
